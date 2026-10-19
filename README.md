@@ -1,6 +1,6 @@
 ## I'm an amateur, interest-oriented.
 
-[![My Favorite Picture](https://github.com/PyuraMazo/PyuraMazo/assets/wallpaper.png)](https://www.pixiv.net/artworks/116106058)
+[![My Favorite Picture](https://github.com/PyuraMazo/PyuraMazo/blob/master/assets/wallpaper.png)](https://www.pixiv.net/artworks/116106058)
 
 
 <picture>
